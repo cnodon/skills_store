@@ -1,0 +1,17 @@
+{
+  "id": "anthropic-webapp-testing",
+  "name": "webapp-testing",
+  "displayName": "Anthropic Webapp Testing",
+  "version": "snapshot-b0cbd3d",
+  "publisher": "Anthropic",
+  "publisherTrust": "official",
+  "description": "Toolkit for interacting with and testing local web applications using Playwright.",
+  "sourceRepo": "https://github.com/anthropics/skills",
+  "sourcePath": "skills/webapp-testing",
+  "sourceCommit": "b0cbd3df1533b396d281a6886d5132f623393a9c",
+  "mirrorPath": "skills/anthropic-webapp-testing",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}
+

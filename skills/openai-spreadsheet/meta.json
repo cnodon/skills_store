@@ -1,0 +1,16 @@
+{
+  "id": "openai-spreadsheet",
+  "name": "spreadsheet",
+  "displayName": "OpenAI Spreadsheet",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Use when tasks involve creating, editing, analyzing, or formatting spreadsheets with formula-aware workflows.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/spreadsheet",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-spreadsheet",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}
