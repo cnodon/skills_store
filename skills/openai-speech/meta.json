@@ -1,0 +1,16 @@
+{
+  "id": "openai-speech",
+  "name": "speech",
+  "displayName": "OpenAI Speech",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Use when the user asks for text-to-speech narration or voiceover, accessibility reads, audio prompts, or batch speech generation via the OpenAI Audio API; run the bundled CLI (`scripts/text_to_speech.py`) with built-in voices and require `OPENAI_API_KEY` for live calls. Custom voice creation is out of scope.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/speech",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-speech",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

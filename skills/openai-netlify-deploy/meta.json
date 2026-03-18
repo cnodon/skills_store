@@ -1,0 +1,16 @@
+{
+  "id": "openai-netlify-deploy",
+  "name": "netlify-deploy",
+  "displayName": "OpenAI Netlify Deploy",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, or link a site/repo on Netlify, including preview and production deploys.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/netlify-deploy",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-netlify-deploy",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

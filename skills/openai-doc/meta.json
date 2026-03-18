@@ -1,0 +1,16 @@
+{
+  "id": "openai-doc",
+  "name": "doc",
+  "displayName": "OpenAI Doc",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Use when the task involves reading, creating, or editing `.docx` documents, especially when formatting or layout fidelity matters; prefer `python-docx` plus the bundled `scripts/render_docx.py` for visual checks.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/doc",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-doc",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

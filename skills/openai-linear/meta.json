@@ -1,0 +1,16 @@
+{
+  "id": "openai-linear",
+  "name": "linear",
+  "displayName": "OpenAI Linear",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Manage issues, projects & team workflows in Linear. Use when the user wants to read, create or updates tickets in Linear.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/linear",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-linear",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "openai-skill-installer",
+  "name": "skill-installer",
+  "displayName": "OpenAI Skill Installer",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a curated skill, or install a skill from another repo (including private repos).",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.system/skill-installer",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-skill-installer",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

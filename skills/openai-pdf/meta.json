@@ -1,11 +1,11 @@
 {
   "id": "openai-pdf",
   "name": "pdf",
-  "displayName": "OpenAI PDF",
+  "displayName": "OpenAI Pdf",
   "version": "snapshot-dc48aff",
   "publisher": "OpenAI",
   "publisherTrust": "official",
-  "description": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter.",
+  "description": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter; prefer visual checks by rendering pages (Poppler) and use Python tools such as `reportlab`, `pdfplumber`, and `pypdf` for generation and extraction.",
   "sourceRepo": "https://github.com/openai/skills",
   "sourcePath": "skills/.curated/pdf",
   "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
@@ -14,4 +14,3 @@
   "licenseType": "Apache-2.0",
   "status": "active"
 }
-

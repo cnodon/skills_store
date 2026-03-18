@@ -1,0 +1,16 @@
+{
+  "id": "anthropic-mcp-builder",
+  "name": "mcp-builder",
+  "displayName": "Anthropic Mcp Builder",
+  "version": "snapshot-b0cbd3d",
+  "publisher": "Anthropic",
+  "publisherTrust": "official",
+  "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+  "sourceRepo": "https://github.com/anthropics/skills",
+  "sourcePath": "skills/mcp-builder",
+  "sourceCommit": "b0cbd3df1533b396d281a6886d5132f623393a9c",
+  "mirrorPath": "skills/anthropic-mcp-builder",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

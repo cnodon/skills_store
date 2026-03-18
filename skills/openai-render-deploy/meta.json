@@ -1,0 +1,16 @@
+{
+  "id": "openai-render-deploy",
+  "name": "render-deploy",
+  "displayName": "OpenAI Render Deploy",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints, and providing Dashboard deeplinks. Use when the user wants to deploy, host, publish, or set up their application on Render's cloud platform.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/render-deploy",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-render-deploy",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

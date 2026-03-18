@@ -5,7 +5,7 @@
   "version": "snapshot-dc48aff",
   "publisher": "OpenAI",
   "publisherTrust": "official",
-  "description": "Use when the task requires automating a real browser from the terminal via playwright-cli.",
+  "description": "Use when the task requires automating a real browser from the terminal (navigation, form filling, snapshots, screenshots, data extraction, UI-flow debugging) via `playwright-cli` or the bundled wrapper script.",
   "sourceRepo": "https://github.com/openai/skills",
   "sourcePath": "skills/.curated/playwright",
   "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
@@ -14,4 +14,3 @@
   "licenseType": "Apache-2.0",
   "status": "active"
 }
-

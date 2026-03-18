@@ -1,0 +1,16 @@
+{
+  "id": "openai-notion-meeting-intelligence",
+  "name": "notion-meeting-intelligence",
+  "displayName": "OpenAI Notion Meeting Intelligence",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to attendees.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/notion-meeting-intelligence",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-notion-meeting-intelligence",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Custom",
+  "status": "active"
+}

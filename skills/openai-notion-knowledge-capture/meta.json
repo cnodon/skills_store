@@ -1,0 +1,16 @@
+{
+  "id": "openai-notion-knowledge-capture",
+  "name": "notion-knowledge-capture",
+  "displayName": "OpenAI Notion Knowledge Capture",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Capture conversations and decisions into structured Notion pages; use when turning chats/notes into wiki entries, how-tos, decisions, or FAQs with proper linking.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/notion-knowledge-capture",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-notion-knowledge-capture",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Custom",
+  "status": "active"
+}

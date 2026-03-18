@@ -5,7 +5,7 @@
   "version": "snapshot-dc48aff",
   "publisher": "OpenAI",
   "publisherTrust": "official",
-  "description": "Use when tasks involve creating, editing, analyzing, or formatting spreadsheets with formula-aware workflows.",
+  "description": "Use when tasks involve creating, editing, analyzing, or formatting spreadsheets (`.xlsx`, `.csv`, `.tsv`) with formula-aware workflows, cached recalculation, and visual review.",
   "sourceRepo": "https://github.com/openai/skills",
   "sourcePath": "skills/.curated/spreadsheet",
   "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",

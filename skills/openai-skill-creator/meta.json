@@ -1,0 +1,16 @@
+{
+  "id": "openai-skill-creator",
+  "name": "skill-creator",
+  "displayName": "OpenAI Skill Creator",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.system/skill-creator",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-skill-creator",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

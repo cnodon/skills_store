@@ -1,0 +1,16 @@
+{
+  "id": "anthropic-claude-api",
+  "name": "claude-api",
+  "displayName": "Anthropic Claude Api",
+  "version": "snapshot-b0cbd3d",
+  "publisher": "Anthropic",
+  "publisherTrust": "official",
+  "description": "Build apps with the Claude API or Anthropic SDK. TRIGGER when: code imports `anthropic`/`@anthropic-ai/sdk`/`claude_agent_sdk`, or user asks to use Claude API, Anthropic SDKs, or Agent SDK. DO NOT TRIGGER when: code imports `openai`/other AI SDK, general programming, or ML/data-science tasks.",
+  "sourceRepo": "https://github.com/anthropics/skills",
+  "sourcePath": "skills/claude-api",
+  "sourceCommit": "b0cbd3df1533b396d281a6886d5132f623393a9c",
+  "mirrorPath": "skills/anthropic-claude-api",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

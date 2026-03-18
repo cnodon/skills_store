@@ -1,0 +1,16 @@
+{
+  "id": "openai-cloudflare-deploy",
+  "name": "cloudflare-deploy",
+  "displayName": "OpenAI Cloudflare Deploy",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related platform services. Use when the user asks to deploy, host, publish, or set up a project on Cloudflare.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/cloudflare-deploy",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-cloudflare-deploy",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "openai-transcribe",
+  "name": "transcribe",
+  "displayName": "OpenAI Transcribe",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Transcribe audio files to text with optional diarization and known-speaker hints. Use when a user asks to transcribe speech from audio/video, extract text from recordings, or label speakers in interviews or meetings.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/transcribe",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-transcribe",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

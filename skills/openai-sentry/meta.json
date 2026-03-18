@@ -1,0 +1,16 @@
+{
+  "id": "openai-sentry",
+  "name": "sentry",
+  "displayName": "OpenAI Sentry",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Use when the user asks to inspect Sentry issues or events, summarize recent production errors, or pull basic Sentry health data via the Sentry API; perform read-only queries with the bundled script and require `SENTRY_AUTH_TOKEN`.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/sentry",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-sentry",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

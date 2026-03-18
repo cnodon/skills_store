@@ -1,0 +1,16 @@
+{
+  "id": "anthropic-frontend-design",
+  "name": "frontend-design",
+  "displayName": "Anthropic Frontend Design",
+  "version": "snapshot-b0cbd3d",
+  "publisher": "Anthropic",
+  "publisherTrust": "official",
+  "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+  "sourceRepo": "https://github.com/anthropics/skills",
+  "sourcePath": "skills/frontend-design",
+  "sourceCommit": "b0cbd3df1533b396d281a6886d5132f623393a9c",
+  "mirrorPath": "skills/anthropic-frontend-design",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

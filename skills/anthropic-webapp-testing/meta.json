@@ -5,7 +5,7 @@
   "version": "snapshot-b0cbd3d",
   "publisher": "Anthropic",
   "publisherTrust": "official",
-  "description": "Toolkit for interacting with and testing local web applications using Playwright.",
+  "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
   "sourceRepo": "https://github.com/anthropics/skills",
   "sourcePath": "skills/webapp-testing",
   "sourceCommit": "b0cbd3df1533b396d281a6886d5132f623393a9c",
@@ -14,4 +14,3 @@
   "licenseType": "Apache-2.0",
   "status": "active"
 }
-

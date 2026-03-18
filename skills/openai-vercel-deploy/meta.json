@@ -1,0 +1,16 @@
+{
+  "id": "openai-vercel-deploy",
+  "name": "vercel-deploy",
+  "displayName": "OpenAI Vercel Deploy",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/vercel-deploy",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-vercel-deploy",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "MIT",
+  "status": "active"
+}

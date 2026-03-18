@@ -1,0 +1,16 @@
+{
+  "id": "openai-gh-address-comments",
+  "name": "gh-address-comments",
+  "displayName": "OpenAI Gh Address Comments",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and prompt the user to authenticate if not logged in.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/gh-address-comments",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-gh-address-comments",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

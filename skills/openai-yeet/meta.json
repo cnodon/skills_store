@@ -1,0 +1,16 @@
+{
+  "id": "openai-yeet",
+  "name": "yeet",
+  "displayName": "OpenAI Yeet",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Use only when the user explicitly asks to stage, commit, push, and open a GitHub pull request in one flow using the GitHub CLI (`gh`).",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/yeet",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-yeet",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

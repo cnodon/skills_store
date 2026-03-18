@@ -1,0 +1,16 @@
+{
+  "id": "openai-screenshot",
+  "name": "screenshot",
+  "displayName": "OpenAI Screenshot",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Use when the user explicitly asks for a desktop or system screenshot (full screen, specific app or window, or a pixel region), or when tool-specific capture capabilities are unavailable and an OS-level capture is needed.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/screenshot",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-screenshot",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

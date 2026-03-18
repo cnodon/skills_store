@@ -1,0 +1,16 @@
+{
+  "id": "openai-notion-research-documentation",
+  "name": "notion-research-documentation",
+  "displayName": "OpenAI Notion Research Documentation",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/notion-research-documentation",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-notion-research-documentation",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Custom",
+  "status": "active"
+}

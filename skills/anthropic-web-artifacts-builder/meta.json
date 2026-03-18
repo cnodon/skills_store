@@ -1,0 +1,16 @@
+{
+  "id": "anthropic-web-artifacts-builder",
+  "name": "web-artifacts-builder",
+  "displayName": "Anthropic Web Artifacts Builder",
+  "version": "snapshot-b0cbd3d",
+  "publisher": "Anthropic",
+  "publisherTrust": "official",
+  "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+  "sourceRepo": "https://github.com/anthropics/skills",
+  "sourcePath": "skills/web-artifacts-builder",
+  "sourceCommit": "b0cbd3df1533b396d281a6886d5132f623393a9c",
+  "mirrorPath": "skills/anthropic-web-artifacts-builder",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}

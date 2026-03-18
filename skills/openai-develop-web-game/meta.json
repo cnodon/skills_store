@@ -1,0 +1,16 @@
+{
+  "id": "openai-develop-web-game",
+  "name": "develop-web-game",
+  "displayName": "OpenAI Develop Web Game",
+  "version": "snapshot-dc48aff",
+  "publisher": "OpenAI",
+  "publisherTrust": "official",
+  "description": "Use when Codex is building or iterating on a web game (HTML/JS) and needs a reliable development + testing loop: implement small changes, run a Playwright-based test script with short input bursts and intentional pauses, inspect screenshots/text, and review console errors with render_game_to_text.",
+  "sourceRepo": "https://github.com/openai/skills",
+  "sourcePath": "skills/.curated/develop-web-game",
+  "sourceCommit": "dc48aff8208131776c9937326002bd60cf572ab6",
+  "mirrorPath": "skills/openai-develop-web-game",
+  "licenseFile": "LICENSE.txt",
+  "licenseType": "Apache-2.0",
+  "status": "active"
+}
